@@ -145,7 +145,7 @@ jupyter>=1.0
 
 **Yash Gupta**
 Business Analyst | Data Enthusiast
-📧 yashguptayg9013.ie@gmail.com
+📧 yashguptayg9013@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN) | [GitHub](https://github.com/YOUR_USERNAME)
 
 ---
